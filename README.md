@@ -4,13 +4,9 @@
 
 UI-licious is a tool to automate user journey testing for your website on different browsers and resolutions.
 
----
-
 ## Installation
 
 There's none! 
 
 Head over here to start testing your application: [https://snippet.uilicious.com](https://snippet.uilicious.com)
-
----
 
