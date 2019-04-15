@@ -49,6 +49,15 @@ Check out examples for: [React](https://uilicious.com/explore/react-framework.ht
 - Microsoft Edge
 - Internet Explorer 11
 
+## FAQs
+
+__Is UI-licious open-source?__
+
+No.
+
+__Is UI-licious based on Selenium?__
+
+Yes in the sense that UI-licious is built on the standard [WC3 Webdriver Protocol](https://www.w3.org/TR/webdriver1/) for Browser Automation, which is based off the Selenium project. 
 
 ## Installation
 
@@ -78,5 +87,9 @@ UI-licious Studio is the professional edition of UI-licious, with advanced featu
 You can execute UI-licious tests using the CLI. This allows you hook tests into your deployment build within your CI/CD tools.
 
 [Read the Docs](https://github.com/uilicious/uilicious-cli)
+
+## I want to self-host UI-licious
+
+Please contact [us](mailto:sales@uilicious.com) for a commercial license to self-host UI-licious on your servers.
 
 
