@@ -53,13 +53,17 @@ Check out examples for: [React](https://uilicious.com/explore/react-framework.ht
 
 There's none! 
 
-Head over here to start testing your application: [https://snippet.uilicious.com](https://snippet.uilicious.com)
+Head over here to create your first test: [https://snippet.uilicious.com](https://snippet.uilicious.com)
 
 ## Get Started
 
 You can start with the tutorial on [https://snippet.uilicious.com](https://snippet.uilicious.com), or [Read the Docs](https://docs.uilicious.com).
 
 [List of commands](https://docs.uilicious.com/scripting/list_of_commands.html)
+
+## How do I test my internal application?
+
+---
 
 ## ✨ What's UI-licious Studio?
 
@@ -70,6 +74,10 @@ UI-licious Studio is the professional edition of UI-licious, with advanced featu
 
 [View plans and pricing](https://uilicious.com/pricing.html)
 
+#### I want to self-host UI-licious
+
+Please [contact us](mailto:sales@uilicious.com) for a commercial license to self-host UI-licious on your servers.
+
 ## ✨ Command Line Interface
 
 > You need to have a UI-licious Studio account to use the Command Line Interface
@@ -78,9 +86,8 @@ You can execute UI-licious tests using the CLI. This allows you hook tests into 
 
 [Read the Docs](https://github.com/uilicious/uilicious-cli)
 
-## I want to self-host UI-licious
 
-Please contact [us](mailto:sales@uilicious.com) for a commercial license to self-host UI-licious on your servers.
+---
 
 ## FAQs
 
