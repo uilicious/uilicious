@@ -41,9 +41,9 @@ There's none!
 
 Head over here to start testing your application: [https://snippet.uilicious.com](https://snippet.uilicious.com)
 
-## Documentation
+## Get Started
 
-[Docs](https://docs.uilicious.com) 
+[Read the Docs](https://docs.uilicious.com) 
 
 [List of commands](https://docs.uilicious.com/scripting/list_of_commands.html)
 
