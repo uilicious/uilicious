@@ -4,6 +4,19 @@
 
 UI-licious is a tool to automate user journey testing for your website on different browsers and resolutions.
 
+__Supported browsers__:
+- Chrome
+- Firefox
+- Safari
+- Microsoft Edge
+- Internet Explorer 11
+
+__What front-end does UI-licious support?__
+
+React, Vue, Angular, Polymer, EmberJs, KnockoutJs, JQuery, Vanilla...
+
+UI-licious works on any front-end! UI-licious works on good old static sites, server-sider rendered and modern SPA applications. 
+
 ## Installation
 
 There's none! 
