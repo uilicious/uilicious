@@ -4,8 +4,10 @@
 
 UI-licious is a tool to automate user journey testing for your website on different browsers and resolutions.
 
-__Example__
+__Example__:
+
 Here's an example to test the Github's Login flow
+
 ```javascript
 I.goTo("https://github.com")
 I.click("Sign up")
@@ -15,6 +17,7 @@ I.fill("Email", "bruce@waynecorp.com")
 I.fill("Password", "supersecretpassword")
 I.click("Create an account")
 ```
+
 [▶️ Run this test](https://snippet.uilicious.com/test/public/XRYw8i91TTo9qtX4jgJUYm)
 
 __What front-end does UI-licious support?__
