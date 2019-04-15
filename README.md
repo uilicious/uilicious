@@ -78,6 +78,8 @@ UI-licious Studio is the professional edition of UI-licious, with advanced featu
 
 > You need to have a UI-licious Studio account to use the Command Line Interface
 
+![UI-licious CLI - Run a Test Example](./img/uilicious-cli-run-example.png)
+
 You can execute UI-licious tests using the CLI. This allows you hook tests into your deployment build within your CI/CD tools.
 
 [Read the Docs](https://github.com/uilicious/uilicious-cli)
