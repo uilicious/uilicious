@@ -63,6 +63,8 @@ You can start with the tutorial on [https://snippet.uilicious.com](https://snipp
 
 ## How do I test my internal application?
 
+If you are not using a self-hosted version of UI-licious, you can use services like [ngrok](https://ngrok.com/) to temporarily expose your application to a secure public url.
+
 ---
 
 ## ✨ What's UI-licious Studio?
