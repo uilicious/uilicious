@@ -15,7 +15,7 @@ I.fill("Email", "bruce@waynecorp.com")
 I.fill("Password", "supersecretpassword")
 I.click("Create an account")
 ```
-[Run this test](https://snippet.uilicious.com/test/public/XRYw8i91TTo9qtX4jgJUYm)
+[▶️ Run this test](https://snippet.uilicious.com/test/public/XRYw8i91TTo9qtX4jgJUYm)
 
 __What front-end does UI-licious support?__
 
