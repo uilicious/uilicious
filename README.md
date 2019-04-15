@@ -30,7 +30,7 @@ UI-licious works on any front-end! UI-licious works on good old static sites, se
 
 Check out examples for: [React](https://uilicious.com/explore/react-framework.html) | [Vue](https://uilicious.com/explore/vue-framework.html) | [Angular](https://uilicious.com/explore/angular-framework.html) | [All](https://uilicious.com/explore)
 
-#### Supported browsers:
+#### Supported browsers
 - Chrome
 - Firefox
 - Safari
@@ -48,6 +48,15 @@ Head over here to start testing your application: [https://snippet.uilicious.com
 You can start with the tutorial on [https://snippet.uilicious.com](https://snippet.uilicious.com), or [Read the Docs](https://docs.uilicious.com).
 
 [List of commands](https://docs.uilicious.com/scripting/list_of_commands.html)
+
+## What's UI-licious Studio?
+
+UI-licious Studio is the professional edition of UI-licious, with advanced features such as:
+- __Projects__ to organise and manage tests and reports
+- __Datasets__ to manage sensitive test data and quickly swap test data between tests
+- __Jobs__ to schedule tests and setup error alerts
+
+[View plans and pricing](https://uilicious.com/pricing.html)
 
 ## Command Line Interface
 
