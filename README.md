@@ -45,9 +45,7 @@ Head over here to start testing your application: [https://snippet.uilicious.com
 
 ## Get Started
 
-You can start with the tutorial on [https://snippet.uilicious.com](https://snippet.uilicious.com), or
-
-[Read the Docs](https://docs.uilicious.com).
+You can start with the tutorial on [https://snippet.uilicious.com](https://snippet.uilicious.com), or [Read the Docs](https://docs.uilicious.com).
 
 [List of commands](https://docs.uilicious.com/scripting/list_of_commands.html)
 
