@@ -61,11 +61,9 @@ You can start with the tutorial on [https://snippet.uilicious.com](https://snipp
 
 [List of commands](https://docs.uilicious.com/scripting/list_of_commands.html)
 
-## How do I test a localhost/internal application?
+## Testing localhost / internal applications
 
 If you are not using a self-hosted version of UI-licious, you can use services like [ngrok](https://ngrok.com/) to temporarily expose your application to a secure public url.
-
----
 
 ## ✨ What's UI-licious Studio?
 
@@ -88,8 +86,6 @@ You can execute UI-licious tests using the CLI. This allows you hook tests into 
 
 [Read the Docs](https://github.com/uilicious/uilicious-cli)
 
-
----
 
 ## FAQs
 
