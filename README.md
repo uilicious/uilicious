@@ -22,7 +22,18 @@ I.click("Create an account")
 
 [▶️ Run this test](https://snippet.uilicious.com/test/public/XRYw8i91TTo9qtX4jgJUYm)
 
-#### What front-end does UI-licious support?
+## How is it different from other testing libraries or tools?
+
+__UI-licious is a high-level testing language, designed to be written and read by humans.__
+
+Unlike other testing libraries or tools, which relies either hard-coding CSS and XPATH selectors into the tests *(or on the front-end developers writing The Perfect UI code)* UI-licious tests are designed to work regardless of how the UI is implemented.
+
+UI-licious uses dynamic code analysis on your website to evaluate best matches for the target element of the given command based on the semantics of the HTML code and the context of preceding test commands. Your UI code doesn't not have to be perfect, but UI-licious works most accurately when the website uses semantic HTML and ARIA accessibily attributes. 
+
+At best, you can write tests that are meaningful, robust, reusable, and easy to maintain. 
+If not, UI-licious still support CSS and XPATH as a fallback.
+
+## What front-end does UI-licious support?
 
 React, Vue, Angular, Polymer, EmberJs, KnockoutJs, JQuery, Vanilla...
 
@@ -30,12 +41,13 @@ UI-licious works on any front-end! UI-licious works on good old static sites, se
 
 Check out examples for: [React](https://uilicious.com/explore/react-framework.html) | [Vue](https://uilicious.com/explore/vue-framework.html) | [Angular](https://uilicious.com/explore/angular-framework.html) | [All](https://uilicious.com/explore)
 
-#### Supported browsers
+## Supported browsers
 - Chrome
 - Firefox
 - Safari
 - Microsoft Edge
 - Internet Explorer 11
+
 
 ## Installation
 
