@@ -94,4 +94,5 @@ __Is UI-licious based on Selenium?__
 Yes in the sense that UI-licious is built on the standard [WC3 Webdriver Protocol](https://www.w3.org/TR/webdriver1/) for Browser Automation, which is based off the Selenium project. 
 
 __Is there a self-hosted edition?__
+
 Please [contact us](mailto:sales@uilicious.com) for a commercial license to self-host UI-licious on your servers.
