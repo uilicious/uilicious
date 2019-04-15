@@ -49,3 +49,12 @@ Head over here to start testing your application: [https://snippet.uilicious.com
 
 [List of commands](https://docs.uilicious.com/scripting/list_of_commands.html)
 
+## Using the Command Line 
+
+> You need to have a UI-licious Studio account to use the Command Line Interface
+
+You can execute UI-licious tests using the CLI. This allows you hook tests into your deployment build within your CI/CD tools.
+
+[Read the Docs](https://github.com/uilicious/uilicious-cli)
+
+
