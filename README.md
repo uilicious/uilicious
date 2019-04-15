@@ -62,7 +62,7 @@ You can start with the tutorial on [https://snippet.uilicious.com](https://snipp
 
 [List of commands](https://docs.uilicious.com/scripting/list_of_commands.html)
 
-## What's UI-licious Studio?
+## ✨ What's UI-licious Studio?
 
 UI-licious Studio is the professional edition of UI-licious, with advanced features such as:
 - __Projects__ to organise and manage tests and reports
@@ -71,7 +71,7 @@ UI-licious Studio is the professional edition of UI-licious, with advanced featu
 
 [View plans and pricing](https://uilicious.com/pricing.html)
 
-## Command Line Interface
+## ✨ Command Line Interface
 
 > You need to have a UI-licious Studio account to use the Command Line Interface
 
