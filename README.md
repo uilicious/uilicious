@@ -6,7 +6,7 @@ UI-licious is a tool to automate user journey testing for your website on differ
 
 __Example__
 Here's an example to test the Github's Login flow
-```
+```javascript
 I.goTo("https://github.com")
 I.click("Sign up")
 I.see("Join GitHub")
