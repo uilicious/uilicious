@@ -26,11 +26,12 @@ I.click("Create an account")
 
 __UI-licious is a high-level testing language, designed to be written and read by humans.__
 
-Unlike other testing libraries or tools, which relies either hard-coding CSS and XPATH selectors into the tests *(or on the front-end developers writing The Perfect UI code)* UI-licious tests are designed to work regardless of how the UI is implemented.
+Unlike other testing libraries or tools, which relies either hard-coding CSS and XPATH selectors into the tests *(or on the front-end developers writing The Perfect UI code)*, UI-licious tests are designed to work regardless of how the UI is implemented.
 
 UI-licious uses dynamic code analysis on your website to evaluate best matches for the target element of the given command based on the semantics of the HTML code and the context of preceding test commands. Your UI code doesn't not have to be perfect, but UI-licious works most accurately when the website uses semantic HTML and ARIA accessibily attributes. 
 
 At best, you can write tests that are meaningful, robust, reusable, and easy to maintain. 
+
 If not, UI-licious still support CSS and XPATH as a fallback.
 
 ## What front-end does UI-licious support?
